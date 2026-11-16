@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://kamadoo.github.io/KamadoCV/"><img src="https://img.shields.io/badge/Currículo-online-ea580c?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-nunes-02a679268/"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kamadoo/"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/kamadocoding"><img src="https://img.shields.io/badge/X-@kamadocoding-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
