@@ -69,4 +69,4 @@ I'm a developer at **Arlequim** and an Analysis & Systems Development student at
   <img src="assets/divider-light.svg" alt="" width="100%">
 </picture>
 
-<p align="center"><sub>feito à mão, no fogo baixo 🔥</sub></p>
+<p align="center"><sub>全集中 · foco total</sub></p>
