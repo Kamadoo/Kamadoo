@@ -4,8 +4,8 @@
   <rect x="0" y="16" width="4" height="26" rx="2" fill="#fb923c"/>
   <text x="20" y="36" font-size="18" font-weight="800" fill="#fbeee0">py</text>
   
-  <text x="20" y="64" font-size="13" fill="#a8917f">Sistema CRUD em Python: criar, listar,</text><text x="20" y="82" font-size="13" fill="#a8917f">atualizar e excluir registros.</text>
-  <rect x="20" y="100" width="38" height="22" rx="11" fill="#fb923c" fill-opacity=".14"/><text x="39" y="115" font-size="11.5" font-weight="600" text-anchor="middle" fill="#fb923c">CLI</text>
+  <text x="20" y="64" font-size="13" fill="#a8917f">Sistema acadêmico em linha de comando,</text><text x="20" y="82" font-size="13" fill="#a8917f">feito como atividade da PUCPR.</text>
+  <rect x="20" y="100" width="38" height="22" rx="11" fill="#fb923c" fill-opacity=".14"/><text x="39" y="115" font-size="11.5" font-weight="600" text-anchor="middle" fill="#fb923c">CLI</text><rect x="63.8" y="100" width="51" height="22" rx="11" fill="#fb923c" fill-opacity=".14"/><text x="89" y="115" font-size="11.5" font-weight="600" text-anchor="middle" fill="#fb923c">PUCPR</text>
   <circle cx="302" cy="111" r="5" fill="#3572A5"/>
   <text x="312" y="115" font-size="12" fill="#a8917f">Python</text>
 </svg>
