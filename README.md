@@ -55,11 +55,11 @@ I'm a developer at **Arlequim** and an Analysis & Systems Development student at
 
 </details>
 
-## 🐍 Atividade
+## ⚔️ Atividade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamadoo/Kamadoo/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Kamadoo/Kamadoo/output/snake-light.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamadoo/Kamadoo/output/katana-dark.svg">
+  <img src="https://raw.githubusercontent.com/Kamadoo/Kamadoo/output/katana-light.svg" alt="Katana em chamas cortando o gráfico de contribuições" width="100%">
 </picture>
 
 <br>
