@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="João Vitor Nunes · Kamado — desenvolvedor na Arlequim, criando sistemas para a educação pública, estudante de ADS na PUCPR" width="100%">
+  <img src="assets/banner-light.svg" alt="João Vitor Nunes · Kamado — desenvolvedor @Arlequim, criando sistemas para a educação pública, estudante de ADS @PUCPR" width="100%">
 </picture>
 
 <p align="center">
