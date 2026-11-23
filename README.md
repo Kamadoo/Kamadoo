@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="João Vitor Nunes · Kamado — desenvolvedor na Arlequim, criando mundos no Minecraft Education, estudante de ADS na PUCPR" width="100%">
+  <img src="assets/banner-light.svg" alt="João Vitor Nunes · Kamado — desenvolvedor na Arlequim, criando sistemas para a educação pública, estudante de ADS na PUCPR" width="100%">
 </picture>
 
 <p align="center">
@@ -42,7 +42,7 @@ I'm a developer at **Arlequim** and an Analysis & Systems Development student at
 <p align="center">
   <a href="https://github.com/Kamadoo/oficineiro-mais"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-oficineiro-dark.svg"><img src="assets/card-oficineiro-light.svg" alt="Oficineiro+" width="49%"></picture></a>
   <a href="https://github.com/Kamadoo/DiscordBot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-discordbot-dark.svg"><img src="assets/card-discordbot-light.svg" alt="DiscordBot" width="49%"></picture></a>
-  <a href="https://github.com/Kamadoo/py"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-py-dark.svg"><img src="assets/card-py-light.svg" alt="py" width="49%"></picture></a>
+  <a href="https://github.com/Kamadoo/programa-formar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-formar-dark.svg"><img src="assets/card-formar-light.svg" alt="Programa Formar" width="49%"></picture></a>
   <a href="https://github.com/Kamadoo/KamadoCV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kamadocv-dark.svg"><img src="assets/card-kamadocv-light.svg" alt="KamadoCV" width="49%"></picture></a>
 </p>
 
